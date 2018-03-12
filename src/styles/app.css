@@ -47,6 +47,7 @@ input
     border-radius: 5px;
     margin-top: 2%;
     font-size: 1em;
+    text-indent: 6px;
 }
 
 input::-webkit-input-placeholder 
