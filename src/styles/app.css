@@ -99,4 +99,39 @@ button:hover
     transition-duration: .3s;
 }
 
+table
+{
+    border-collapse:collapse;
+    width:100%;
+    cursor: pointer;
+}
 
+.list-table
+{
+    margin-top: 2%;
+    border:3px solid #fff;
+}
+  
+.list-table thead
+{
+    background:#fff;
+    color: rgba(0,0,0,.8);
+    font-size: 1.25em;
+}
+  
+th,td
+{
+    text-align:center;
+    padding:7px 0;
+}
+  
+tbody tr:nth-child(even)
+{
+    background:rgba(0,0,0,.3);
+}
+  
+tbody tr:hover
+{
+    background: rgba(0,0,0,.4);
+    color: #fff;
+}

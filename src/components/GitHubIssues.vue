@@ -15,7 +15,7 @@
             </div>    
         </form>   
 
-        <table class="">
+        <table class="list-table">
             <thead>
                 <tr>
                     <th width="100">Número</th>
